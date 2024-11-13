@@ -2,7 +2,7 @@
   version: "1.0"
 
  cards:
-  message: "Welcome to EazyBank cards related prod APIs"
+  message: "Welcome to EazyBank cards related production APIs"
   contactDetails:
    name: "Pelias Sudhir - Product Owner"
    email: "pelias@eazybank.com"
