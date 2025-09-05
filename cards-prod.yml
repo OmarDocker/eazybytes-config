@@ -2,10 +2,11 @@
   version: "1.0"
 
  cards:
-  message: "Welcome to EazyBank cards related webhook APIs"
+  message: "Welcome to EazyBank cards related production APIs"
   contactDetails:
    name: "Pelias Sudhir - Product Owner"
    email: "pelias@eazybank.com"
   onCallSupport:
    - (723)-658-8709
    - (156)-342-0956
+
